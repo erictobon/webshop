@@ -21,8 +21,10 @@ Frappe Webshop is an Open Source eCommerce Platform, developed primarily using P
 - **Dynamic and Scalable**: Webshops can be easily adapted to fit business goals and to provide a seamless user experience for businesses small and large.
 
 - **Ease of use**: Wesbhop is designed to require minimal technical knowledge for developers, making it accessible for any business looking to develop an online commerce presence.
+
+- **Control and security**: Webshop is self-hosted, meaning that businesses have complete control over their own data and providing a secure environment for customer data.
   
-- **Open source**: The Webshop platform is completely *free* to use, providing a cost-effective way for businesses to develop digital storefronts and market their brands online.
+- **Open source**: The Webshop platform is completely *free* to use, providing a cost-effective way for businesses to develop digital storefronts and market their brands online. Being open source also means that there are continuous improvements being made to the platform.
 
 ## Example Frappe Webshop Interface
 ![Frappe Webshop](webshop.png)
@@ -73,10 +75,10 @@ Frappe Webshop is an Open Source eCommerce Platform, developed primarily using P
     ```
 
 ## Usage
-Once setup has been completed, eCommerce features can be set up. This [guide](https://docs.erpnext.com/docs/user/manual/en/set_up_e_commerce) explains how to begin setup of the eCommerce features in conjunction with ERPNext. Many common features and customization options are explained, providing a solid framework for users to get started with building their eCommerce platforms. Note that for best results, users should have some Items setup using ERPNext before attempting to create a store.
+Once setup has been completed, eCommerce features can be set up. This [guide](https://docs.erpnext.com/docs/user/manual/en/set_up_e_commerce) explains how to begin setup of the eCommerce features in conjunction with ERPNext. Many common features and customization options are explained, providing a solid framework for users to get started with building their eCommerce platforms. Note that for best results, users should have some Items setup using ERPNext before attempting to create a store. Creating items is a simple process that can be done through the Webshop interface by accessing > Home > Stock > Items and Pricing > Item.
 
 ## Contributing
-To contribute to the development of the Frappe Webshop, please make a fork of this repository and make edits within the forked repository. Once satisfied that a contribution should be deployed, create a pull request from your forked repository to this repository. To make changes using the bench command line interface, make a clone of this repo.
+To contribute to the development of the Frappe Webshop, please make a fork of this repository and make edits within the forked repository. Once satisfied that a contribution should be deployed, create a pull request from your forked repository to this repository. Changes that are accepted will be merged into the main development branch and thus be rolled out to users. To make changes using the bench command line interface, make a clone of this repo using the following command:
 ```sh
 $ git clone https://github.com/frappe/webshop.git
 ```
