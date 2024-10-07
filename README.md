@@ -1,17 +1,17 @@
 # Frappe Webshop
 Frappe Webshop is an Open Source eCommerce Platform, developed primarily using Python and JavaScript. Frappe Webshop was developed as part of the Frappe framework, which is designed to help developers quickly create business applications with minimal code by offering a combination of easy to use front-end and back-end development tools. Frappe Webshop is specifically targeted to help *small to medium sized businesses* with increasing their digital presence and being able to easily create online stores for their brands. Frappe Webshop can be integrated with ERPNext, which is an enterprise resource planning system used by businesses to record all their transactions in a single system. Frappe Webshop emphasizes simplicity, customization, and clean interfaces, providing businesses with the ability to create a tailored user experience both efficently and for free. 
 ## Table of Contents
-- [Table of Contents](https://github.com/erictobon/webshop#table-of-contents)
-- [Why choose Frappe Webshop?](https://github.com/erictobon/webshop/#why-choose-frappe-webshop)
-- [Example Frappe Webshop Interface](https://github.com/erictobon/webshop/#example-frappe-webshop-interface)
-- [Features](https://github.com/erictobon/webshop/#features)
-- [Setup](https://github.com/erictobon/webshop/#setup)
-    - [Installation using Docker](https://github.com/erictobon/webshop/#installation-using-docker)
-    - [Easy Install Script](https://github.com/erictobon/webshop/#easy-install-script)
-    - [Manual Installation](https://github.com/erictobon/webshop/#manual-installation)
-- [Usage](https://github.com/erictobon/webshop/#usage)
-- [Contributing](https://github.com/erictobon/webshop/#contributing)
-- [License](https://github.com/erictobon/webshop/#license)
+- [Table of Contents](https://github.com/frappe/webshop#table-of-contents)
+- [Why choose Frappe Webshop?](https://github.com/frappe/webshop/#why-choose-frappe-webshop)
+- [Example Frappe Webshop Interface](https://github.com/frappe/webshop/#example-frappe-webshop-interface)
+- [Features](https://github.com/frappe/webshop/#features)
+- [Setup](https://github.com/frappe/webshop/#setup)
+    - [Installation using Docker](https://github.com/frappe/webshop/#installation-using-docker)
+    - [Easy Install Script](https://github.com/frappe/webshop/#easy-install-script)
+    - [Manual Installation](https://github.com/frappe/webshop/#manual-installation)
+- [Usage](https://github.com/frappe/webshop/#usage)
+- [Contributing](https://github.com/frappe/webshop/#contributing)
+- [License](https://github.com/frappe/webshop/#license)
 
 ## Why choose Frappe Webshop?
 - **Fast and Efficient**: Streamlined online sales process, offering a shopping experience that can quickly be developed to meet the needs of any business.
